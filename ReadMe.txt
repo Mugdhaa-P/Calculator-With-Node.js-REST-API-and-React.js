@@ -10,5 +10,3 @@ Frontend
 2. "npm install"
 3. "npm start" to start backend server
 
-![alt text](https://github.com/Mugdhaa-P/Calculator-With-Node.js-REST-API-and-React.js/blob/master/Frontend/calculator/Screenshot1.png)
-

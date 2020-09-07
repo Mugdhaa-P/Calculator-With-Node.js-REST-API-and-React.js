@@ -1,16 +1,11 @@
-# CMPE273-2"
-
-Open each folder
+Calculator-With-Node.js-REST-API-and-React.js
 
 Backend
 "npm init" to create new module and initialize package.json
 "npm install" the packages
-
-"nodemon" to start backend server
+"nodemon" or "node index.js" to start backend server
 
 Frontend
-"npm init"
-"npm install"
-"npm install create-react-app" to make a new reactjs app
-
-"npm start" to start backend server
+1. "npm init"
+2. "npm install"
+3. "npm start" to start backend server
